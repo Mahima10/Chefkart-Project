@@ -68,4 +68,4 @@ Here are the features that backend supports.
 # Requirement
 ```Lead status: New, In pipeline, Successful, Junk
 Profile details: Name, Phone Number, Email Id
-Leads details: Name, Phone number, Address.```
+Leads details: Name, Phone number, Address.
