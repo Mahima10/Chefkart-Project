@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Client Referals",
+  "main": "routes.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "server": "node routes.js",
+    "start": "NODE_ENV=production node routes.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
